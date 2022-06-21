@@ -46,5 +46,4 @@ function paukstis(name) {
     }
 }
 
-console.log(paukstis(gandras));
-
+console.log(paukstis(kesha));
